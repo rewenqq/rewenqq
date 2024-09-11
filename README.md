@@ -1,6 +1,5 @@
 ![profile count](https://komarev.com/ghpvc/?username=rewenqq&color=blue)&nbsp;
 [![GitHub Stats](https://img.shields.io/github/followers/rewenqq?label=follow&style=social)](https://github.com/rewenqq)&nbsp;
-<a href="https://instagram.com/rewenqqc02"><img src="https://img.shields.io/badge/@rewenqq-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ## Languages and Technologies I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
