@@ -8,7 +8,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)&nbsp;
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
 ## :bar_chart: GitHub Stats:
