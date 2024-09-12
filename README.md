@@ -19,3 +19,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rewenqq&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=rewenqq&theme=radical" />
 </p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1282977502695784585)](https://discord.com/users/1282977502695784585)
